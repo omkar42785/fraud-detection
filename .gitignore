@@ -1,0 +1,17 @@
+# ignore large datasets
+data/raw/
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual environment
+.venv/
+venv/
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# system files
+.DS_Store
+Thumbs.db
